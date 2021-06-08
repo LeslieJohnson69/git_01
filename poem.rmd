@@ -17,6 +17,7 @@ you, if you change any of this the git program will notice it and compromise you
 <!--Put the first five lines of a poem by Lewis Carrol in this section!-->  
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 “SISTER, sister, go to bed!            
 Go and rest your weary head.”            
 Thus the prudent brother said.            
@@ -30,12 +31,16 @@ Thus the prudent brother said.
 Or scratches to your face applied?”              
 >>>>>>> Firstone
 =======
+=======
+
+>>>>>>> Firstone
 “SISTER, sister, go to bed!                
 Go and rest your weary head.”                
 Thus the prudent brother said.                
 “Do you want a battered hide,                
 Or scratches to your face applied?”                
 >>>>>>> Firstone
+
 
 ## Second Verse
 <!--Put the first five lines of a poem by Robert Frost here!-->
