@@ -33,12 +33,20 @@ Or scratches to your face applied?”
 =======
 =======
 
+<<<<<<< HEAD
 >>>>>>> Firstone
 “SISTER, sister, go to bed!                
 Go and rest your weary head.”                
 Thus the prudent brother said.                
 “Do you want a battered hide,                
 Or scratches to your face applied?”                
+>>>>>>> Firstone
+=======
+“SISTER, sister, go to bed!                  
+Go and rest your weary head.”                  
+Thus the prudent brother said.                  
+“Do you want a battered hide,                  
+Or scratches to your face applied?”                  
 >>>>>>> Firstone
 
 
