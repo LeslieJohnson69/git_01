@@ -1,6 +1,6 @@
 ---
 title: "git_01"
-author: "Leslie Johnson"
+author: "LeslieJohnson"
 date: "Summer 2021"
 output: html_document
 ---
